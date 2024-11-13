@@ -16,7 +16,7 @@ Once a replica of the Namco IPL Interface hardware has been made, it should then
 ## Building
 
 Required tools/files:
-- asm6f assembler: https://cc65.github.io/
+- asm6f assembler: https://github.com/freem/asm6f
 - Python IntelHex library: https://github.com/python-intelhex/intelhex
 - The CHR-ROM data from a dump of the original game, as `BattleCity.chr`. (Not provided)
 
