@@ -10,8 +10,7 @@ The differences from the original game are as follows:
 
 ## Usage
 
-On [Mesen2](https://www.mesen.ca/), the compiled `BattleCity.hex` file must be loaded using the Lua script from [IPL-MAIN](https://github.com/TakuikaNinja/IPL-MAIN).
-Once a replica of the Namco IPL Interface hardware has been made, it should then become possible to load this program on original hardware.
+See [IPL-MAIN](https://github.com/TakuikaNinja/IPL-MAIN) for transfer setup and usage instructions.
 
 ## Building
 
