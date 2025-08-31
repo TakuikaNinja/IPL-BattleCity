@@ -1421,7 +1421,7 @@ StaffString:	.BYTE 'RYOUITI OOKUBO  TAKEFUMI HYOUDOUJUNKO OZAWA     '
 ; ───────────────────────────────────────────────────────────────────────────
 
 RESET:					; DATA XREF: ROM:FFFCo	ROM:FFFEo
-		SEI
+		CLI
 		LDA	#00010000b
 		STA	PPU_CTRL_REG1	; Бэкграунду второй знакогенератор
 		LDA	#10000000b	; select NMI #2
